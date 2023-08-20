@@ -7,6 +7,7 @@ import io.netty.util.internal.SystemPropertyUtil;
 
 public class Test2 {
 	
+	// Author name Charan
 	@BeforeMethod
 	public void setup() {
 		System.out.println("setup");
@@ -24,6 +25,9 @@ public class Test2 {
 	public void test3() {
 		System.out.println("testcase 3rd run");
 	}
+	@Test
+	public void test4() {
+		System.out.println("testcase 4th run");
 	
-	
+	}
 }
