@@ -16,6 +16,8 @@ public class Test2 {
 	@Test
 	public void test1() {
 		System.out.println("testcase 1st run");
+		System.out.println("testcase 1st run");
+		System.out.println("testcase 1st run");
 	}
 	@Test
 	public void test2() {
